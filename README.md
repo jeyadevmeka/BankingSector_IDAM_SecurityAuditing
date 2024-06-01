@@ -1,1 +1,2 @@
 # IDAM_SecurityAuditing
+This reposity is a Place where I could provide some insights in how to audit a Banking Sector or any other sector maybe with the presentations slides. I am sharing only limited sources by putting legal issues in mind. I couldn't share final audit report cause vulnerabilites and remidies are not be shared with unauthorizes people. The main Content is all shared in ppt and you guys can find job role descriptions as well by using which you can find vulnerabilites in each descriptions. 
